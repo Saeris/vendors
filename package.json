@@ -1,0 +1,25 @@
+{
+  "name": "@saeris/vendors",
+  "description": "Experiment demonstrating a single source of truth for an approved vendor versions list.",
+  "version": "0.0.1",
+  "exports": {
+    "./react": {
+      "default": "./node_modules/react",
+      "types": "./node_modules/@types/react"
+    },
+    "./react-dom": {
+      "default": "./node_modules/react-dom",
+      "types": "./node_modules/@types/react-dom"
+    }
+  },
+  "files": [
+    "react",
+    "react-dom"
+  ],
+  "dependencies": {
+    "@types/react": "17.0.3",
+    "@types/react-dom": "17.0.3",
+    "react-dom": "17.0.2",
+    "react": "17.0.2"
+  }
+}
