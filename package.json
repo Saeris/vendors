@@ -1,7 +1,7 @@
 {
   "name": "@saeris/vendors",
   "description": "Experiment demonstrating a single source of truth for an approved vendor versions list.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publishConfig": {
     "access": "public"
   },

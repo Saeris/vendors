@@ -1,4 +1,6 @@
 {
+  "name": "react",
+  "version": "0.0.2",
   "main": "../node_modules/react",
   "types": "../node_modules/@types/react"
 }
